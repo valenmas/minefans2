@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>9.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>560</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>1000</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54ACD2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/Vallerino/sitio_final/imagenes/biomas/aldeano.jpg</url>
+                <title>aldeano</title>
+                <filesize>134369</filesize>
+            </Image>
+            <Image>
+                <url>D:/Vallerino/sitio_final/imagenes/biomas/piramide.jpg</url>
+                <title>piramide</title>
+                <filesize>86432</filesize>
+            </Image>
+            <Image>
+                <url>D:/Vallerino/sitio_final/imagenes/biomas/templo marino.png</url>
+                <title>templo marino</title>
+                <filesize>607375</filesize>
+            </Image>
+            <Image>
+                <url>D:/Vallerino/sitio_final/imagenes/biomas/jungla.jpg</url>
+                <title>jungla</title>
+                <filesize>112928</filesize>
+            </Image>
+            <Image>
+                <url>D:/Vallerino/sitio_final/imagenes/biomas/mansion del bosque.png</url>
+                <title>mansion del bosque</title>
+                <filesize>685453</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
